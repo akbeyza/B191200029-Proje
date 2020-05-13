@@ -1,0 +1,163 @@
+[0512/194635.172:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194635.951:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0512/194635.951:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0512/194635.953:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0512/194637.637:INFO:CONSOLE(2)] "%c AdMatic %c inited v4.6.0.129 background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.646:INFO:CONSOLE(2)] "%c AdMatic %c kf  olum  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.647:INFO:CONSOLE(2)] "%c AdMatic %c kf  teror  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.647:INFO:CONSOLE(2)] "%c AdMatic %c kf  vaka  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.648:INFO:CONSOLE(2)] "%c AdMatic %c kf  virus  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.681:INFO:CONSOLE(2)] "%c AdMatic %c inited v4.6.0.129 background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.686:INFO:CONSOLE(2)] "%c AdMatic %c kf  olum  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.686:INFO:CONSOLE(2)] "%c AdMatic %c kf  teror  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.687:INFO:CONSOLE(2)] "%c AdMatic %c kf  vaka  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.687:INFO:CONSOLE(2)] "%c AdMatic %c kf  virus  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194637.688:INFO:CONSOLE(2)] "%c AdMatic %c Scroll background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194640.116:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194640.483:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194640.483:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://yahoo.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194640.493:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://contextweb.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194640.780:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://zorosrv.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194641.099:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://emerse.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194641.305:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://widespace.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194641.325:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://tribalfusion.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194641.344:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -201
+[0512/194641.540:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194641.548:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 1
+[0512/194641.561:ERROR:ssl_client_socket_impl.cc(935)] handshake failed; returned -1, SSL error code 1, net_error -201
+[0512/194641.563:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 1
+[0512/194641.563:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 101
+[0512/194641.566:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 3
+[0512/194642.418:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194642.419:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://api.hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194642.703:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194642.705:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194642.794:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194642.799:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194642.999:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049563" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589302001813 (1)
+[0512/194643.000:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049564" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589302001813 (1)
+[0512/194643.488:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0512/194643.488:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0512/194643.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0512/194643.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0512/194643.490:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0512/194644.206:WARNING:spdy_session.cc(3259)] Received WINDOW_UPDATE for invalid stream 11
+[0512/194644.207:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 11
+[0512/194644.237:WARNING:spdy_session.cc(3259)] Received WINDOW_UPDATE for invalid stream 13
+[0512/194644.238:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 13
+[0512/194644.251:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 9
+[0512/194644.718:INFO:CONSOLE(119)] "HEADCOMMON", source: https://www.sabah.com.tr/gundem (119)
+[0512/194644.719:INFO:CONSOLE(967)] "HEADDAC", source: https://www.sabah.com.tr/gundem (967)
+[0512/194644.916:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.sabah.com.tr/gundem (0)
+[0512/194645.030:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 3
+[0512/194645.039:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 5
+[0512/194645.046:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 7
+[0512/194645.049:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 9
+[0512/194645.121:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194645.128:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0512/194645.139:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194645.243:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194645.249:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0512/194645.543:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0512/194645.543:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0512/194645.545:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0512/194645.546:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0512/194645.546:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0512/194645.546:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0512/194647.317:INFO:CONSOLE(2)] "%c AdMatic %c inited v4.6.0.129 background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194647.325:INFO:CONSOLE(2)] "%c AdMatic %c kf  olum  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194647.325:INFO:CONSOLE(2)] "%c AdMatic %c kf  teror  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194647.326:INFO:CONSOLE(2)] "%c AdMatic %c kf  vaka  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194647.326:INFO:CONSOLE(2)] "%c AdMatic %c kf  virus  background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194647.329:INFO:CONSOLE(2)] "%c AdMatic %c Scroll background:#AC1F23;color:#fff;font-weight:bold;font-size:12px; color:#000;font-size:10px;", source: https://cdn2.admatic.com.tr/showad/showad.js (2)
+[0512/194650.356:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://simpli.fi/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023554.876:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.milliyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023555.723:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0513/023555.723:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0513/023555.726:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0513/023555.727:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0513/023555.727:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0513/023555.727:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0513/023555.727:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0513/023555.727:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0513/023555.728:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0513/023555.728:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0513/023555.728:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0513/023555.728:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0513/023557.098:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at https://google.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023557.759:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023557.759:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://api.hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023558.278:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023558.353:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023558.408:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023558.412:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023558.526:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049563" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589326557285 (1)
+[0513/023558.526:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049564" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589326557285 (1)
+[0513/023558.794:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 3
+[0513/023641.295:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0513/023641.296:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0513/023641.296:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0513/023641.296:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0513/023641.296:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0513/023641.296:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0513/023641.296:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0513/023641.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0513/023641.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0513/023641.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0513/023641.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0513/023641.297:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0513/023642.197:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 1
+[0513/023642.223:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 5
+[0513/023642.255:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 3
+[0513/023642.354:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 7
+[0513/023642.854:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023642.855:INFO:CONSOLE(0)] "A cookie associated with a cross-site resource at http://api.hurpass.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.", source: https://www.hurriyet.com.tr/son-dakika-haberleri/ (0)
+[0513/023643.176:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023643.224:INFO:CONSOLE(1)] "dom not ready, setting event", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023643.324:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023643.331:INFO:CONSOLE(1)] "dom ready, triggering load", source: https://c.evidon.com/sitenotice/evidon-sitenotice-tag.js (1)
+[0513/023643.431:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049563" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589326602268 (1)
+[0513/023643.431:INFO:CONSOLE(1)] "%cPubTag color: #fff; background: #ff8f1c; display: inline-block; padding: 1px 4px; border-radius: 3px; ERROR: can't display acceptable ad : the container "crt-1049564" is not visible", source: https://static.criteo.net/js/ld/publishertag.js?_=1589326602268 (1)
+[0513/023644.001:ERROR:data_channel.cc(53)] Accepting maxRetransmits = -1 for backwards compatibility
+[0513/023644.001:ERROR:data_channel.cc(58)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 125
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 124
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 123
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 122
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 121
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0513/023644.002:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.060:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.061:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/023645.061:INFO:CONSOLE(10)] "Sovrn OneTag Error: Failed to execute 'querySelector' on 'Document': '#medyanet/9927946/hurriyet/gundem/body_300x250_0' is not a valid selector.", source: https://get.s-onetag.com/f6fa1b23-c932-4f77-a3e9-924803aeb997/tag.min.js (10)
+[0513/030410.345:WARNING:spdy_session.cc(3316)] Received HEADERS for invalid stream 1
